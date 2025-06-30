@@ -38,4 +38,7 @@
 - I/O and Storage
 - Implement a 1-bit ALU, register file, or cache simulator
 
+## Projects for my career
+- Launch an app using Go, Templ, HTMX. and Grafana for logging.
+- Automatically manage Ninja software using APIs built in golang.
 
