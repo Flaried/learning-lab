@@ -1,4 +1,6 @@
 # Technologies to learn 🐕
+> ⚠️ This Repo will be under active development.  
+> Everything in this Repo is for my personal use for note taking/tracking. ⚠️
 
 ## Operating Systems 💿
 - Virtual vs Physical memory
