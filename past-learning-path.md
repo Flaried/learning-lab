@@ -20,7 +20,7 @@ However, I’ve realized that I’ve neglected foundational concepts in:
 >
 >   - Computer Architecture
 >
->   - Low Level Concepts like memory managment
+>   - Low Level Concepts like memory managment and concurrency
 >
 >   - Databases (though I've built basic ones before using postgres)
 >
