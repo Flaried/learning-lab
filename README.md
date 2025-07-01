@@ -2,6 +2,7 @@
 > ⚠️ This Repo will be under active development.  
 > Everything in this Repo is for my personal use for note taking/tracking. ⚠️
 
+This repo will not be focusing on web development.
 ## Operating Systems 💿
 - Virtual vs Physical memory
 - Buffers and caching
