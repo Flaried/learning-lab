@@ -44,4 +44,5 @@ This repo will not be focusing on web development.
 ## Projects for my career
 - Launch an app using Go, Templ, HTMX. and Grafana for logging.
 - Automatically manage Ninja software using APIs built in golang.
+- Make a blog in Golang, for me to post stuff im learning about. 
 
