@@ -22,7 +22,11 @@ However, I’ve realized that I’ve neglected foundational concepts in:
 >
 >   - Low Level Concepts like memory managment
 >
->   - Databases (Ive made a couple before in postgres)
+>   - Databases (though I've built basic ones before using postgres)
+>
+>   - Simple Networking Concepts 
+
+Although these topics weren't essential for the kinds of Python automation projects I built, These are very important for writing efficient, scalable, and maintainable software.
 
 # 🔁 Recent Shift in Focus
 Lately ive switched to learning Go + Rust, This shift has recently given me a more desirable & clearer learning path. 
