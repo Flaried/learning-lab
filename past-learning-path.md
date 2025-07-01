@@ -1,6 +1,6 @@
 # 🧠 2019-2024 Learning Path Overview
 
-I've been coding in **Python for 5 years**, primarily self taught. During this time, I've developed strong practical skills by building projects and solving problems through Googling and hands-on experimentation. I'm very comfortable with Python and general programming workflows.
+I've been coding in **Python for 5 years**, FULLY self taught. During this time, I've developed strong practical skills by building projects and solving problems through Googling and hands-on experimentation. I'm very comfortable with Python and general programming workflows.
 
 Most of my experience has been in writing simple programs using libraries like requests, often involving:
 >
@@ -25,6 +25,8 @@ However, I’ve realized that I’ve neglected foundational concepts in:
 >   - Databases (though I've built basic ones before using postgres)
 >
 >   - Simple Networking Concepts 
+>
+>   - Didnt utilize github
 
 Although these topics weren't essential for the kinds of Python automation projects I built, These are very important for writing efficient, scalable, and maintainable software.
 
